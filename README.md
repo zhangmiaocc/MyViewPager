@@ -1,4 +1,4 @@
-#### MyBlog：[zhangmiao.cc](https://zhangmiao.cc/2018/08/16/ViewPager%E8%BD%AE%E6%92%AD%E5%9B%BE/)
+#### MyBlog：[zhangmiao.cc](https://zhangmiao.cc/posts/3bedd12e.html)
 
 ViewPager常用来实现图片的轮播，比如淘宝首页，会把一些促销的商品的图片和描述信息来回的播放，这就是典型的使用ViewPager实现的。
 
